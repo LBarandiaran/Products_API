@@ -68,7 +68,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/products/3/",
+					"raw": "http://127.0.0.1:8000/api/products/1/",
 					"protocol": "http",
 					"host": [
 						"127",
@@ -80,7 +80,7 @@
 					"path": [
 						"api",
 						"products",
-						"3",
+						"1",
 						""
 					]
 				}
@@ -94,7 +94,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"title\": \"Gasoline Powered Sweater\",\r\n    \"description\": \"Model X649d\",\r\n    \"price\": 159.95,\r\n    \"inventory_quantity\": \"1\"\r\n}",
+					"raw": "{\r\n    \"title\": \"Vintage Chess Board\",\r\n    \"description\": \"Laquered rare wood inlaid chess board, no game pieces board only\",\r\n    \"price\": 45.0,\r\n    \"inventory_quantity\": 10,\r\n    \"product_image_link\": \"https://c8.alamy.com/comp/M0FX6X/old-and-worn-antique-chess-board-isolated-on-whote-background-M0FX6X.jpg\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -102,7 +102,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/products/4/",
+					"raw": "http://127.0.0.1:8000/api/products/1/",
 					"protocol": "http",
 					"host": [
 						"127",
@@ -114,7 +114,7 @@
 					"path": [
 						"api",
 						"products",
-						"4",
+						"1",
 						""
 					]
 				}
